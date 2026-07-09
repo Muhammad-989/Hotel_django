@@ -75,8 +75,6 @@ pip install -r requirements.txt
 
 ```
 
-*(Note: If the standard MySQL driver encounters system environment compilation errors on Windows, `pymysql` is pre-configured as a safe fallback driver).*
-
 ### 3. Database Configuration
 
 1. Initialize a new local schema inside your MySQL instance:
