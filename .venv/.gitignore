@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+.env/
+# PyCharm settings
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Local database (Optional: keep this if you want recruiters to see dummy data,
+# but usually, we don't upload actual databases to GitHub)
+*.sqlite3
